@@ -1,212 +1,60 @@
-[
-  {
-    "nombre": "Coca-Cola",
-    "categoria": "Bebidas",
-    "precio": 3500,
-    "stock": 100,
-    "proveedores": [
-      {
-        "nombre": "Bebidas ",
-        "direccion": "Cra 10 #15-30",
-        "correo": "contacto@bebidassa.com",
-        "telefono": "3100000001",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Margaritas",
-    "categoria": "Snacks",
-    "precio": 2500,
-    "stock": 80,
-    "proveedores": [
-      {
-        "nombre": "Snacks Colombia",
-        "direccion": "Cl 25 #45-12",
-        "correo": "ventas@snackscolombia.com",
-        "telefono": "3100000002",
-        "ciudad": "Medellín"
-      }
-    ]
-  },
-  {
-    "nombre": "Zanahoria",
-    "categoria": "Verduras",
-    "precio": 1500,
-    "stock": 70,
-    "proveedores": [
-      {
-        "nombre": "Verduras del Campo",
-        "direccion": "Finca La Esperanza, Zona Rural",
-        "correo": "info@verdurasdelcampo.com",
-        "telefono": "3100000003",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Kiwi",
-    "categoria": "Frutas",
-    "precio": 3000,
-    "stock": 60,
-    "proveedores": [
-      {
-        "nombre": "Frutas Importadas",
-        "direccion": "Av. Principal #100-20",
-        "correo": "importados@frutas.com",
-        "telefono": "3100000004",
-        "ciudad": "Cali"
-      }
-    ]
-  },
-  {
-    "nombre": "Mango",
-    "categoria": "Frutas",
-    "precio": 2800,
-    "stock": 90,
-    "proveedores": [
-      {
-        "nombre": "Frutas del Valle",
-        "direccion": "Calle 50 #30-15",
-        "correo": "contacto@frutasvalle.com",
-        "telefono": "3100000005",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Avena",
-    "categoria": "Cereales",
-    "precio": 3200,
-    "stock": 50,
-    "proveedores": [
-      {
-        "nombre": "Cereales Andinos",
-        "direccion": "Zona Industrial #8-45",
-        "correo": "info@cerealesandinos.com",
-        "telefono": "3100000006",
-        "ciudad": "Pereira"
-      }
-    ]
-  },
-  {
-    "nombre": "Yogur",
-    "categoria": "Lácteos",
-    "precio": 2500,
-    "stock": 40,
-    "proveedores": [
-      {
-        "nombre": "Lácteos La Granja",
-        "direccion": "Vereda Santa Elena, Km 5",
-        "correo": "ventas@lacteoslagranja.com",
-        "telefono": "3100000007",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Halls",
-    "categoria": "Dulces",
-    "precio": 1000,
-    "stock": 150,
-    "proveedores": [
-      {
-        "nombre": "Confites S.A.",
-        "direccion": "Carrera 80 #40-60",
-        "correo": "contacto@confites.com",
-        "telefono": "3100000008",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Chicles",
-    "categoria": "Dulces",
-    "precio": 800,
-    "stock": 200,
-    "proveedores": [
-      {
-        "nombre": "Confites S.A.",
-        "direccion": "Carrera 80 #40-60",
-        "correo": "contacto@confites.com",
-        "telefono": "3100000008",
-        "ciudad": "Cali"
-      }
-    ]
-  },
-  {
-    "nombre": "Manzana",
-    "categoria": "Frutas",
-    "precio": 2000,
-    "stock": 55,
-    "proveedores": [
-      {
-        "nombre": "Frutas del Sur",
-        "direccion": "Cl 10 #5-50",
-        "correo": "ventas@frutasdelsur.com",
-        "telefono": "3100000009",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Pera",
-    "categoria": "Frutas",
-    "precio": 2100,
-    "stock": 45,
-    "proveedores": [
-      {
-        "nombre": "Frutas del Sur",
-        "direccion": "Cl 10 #5-50",
-        "correo": "ventas@frutasdelsur.com",
-        "telefono": "3100000009",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Cheetos",
-    "categoria": "Snacks",
-    "precio": 2600,
-    "stock": 75,
-    "proveedores": [
-      {
-        "nombre": "Snacks Colombia",
-        "direccion": "Cl 25 #45-12",
-        "correo": "ventas@snackscolombia.com",
-        "telefono": "3100000002",
-        "ciudad": "Medellín"
-      }
-    ]
-  },
-  {
-    "nombre": "DeTodito",
-    "categoria": "Snacks",
-    "precio": 3000,
-    "stock": 65,
-    "proveedores": [
-      {
-        "nombre": "Snacks Colombia",
-        "direccion": "Cl 25 #45-12",
-        "correo": "ventas@snackscolombia.com",
-        "telefono": "3100000002",
-        "ciudad": "Bogotá"
-      }
-    ]
-  },
-  {
-    "nombre": "Leche Deslactosada",
-    "categoria": "Lácteos",
-    "precio": 3500,
-    "stock": 40,
-    "proveedores": [
-      {
-        "nombre": "Lácteos La Granja",
-        "direccion": "Vereda Santa Elena, Km 5",
-        "correo": "ventas@lacteoslagranja.com",
-        "telefono": "3100000007",
-        "ciudad": "Bogotá"
-      }
-    ]
+[{
+  "_id": 1,
+  "nombre": "Manzana Orgánica",
+  "categoria": "Frutas",
+  "precio": 2500,
+  "stock": 150,
+  "proveedor": {
+    "nombre": "Finca Verde",
+    "ciudad": "Bogotá",
+    "telefono": "3001234567"
   }
-]
+},
+{
+  "_id": 2,
+  "nombre": "Leche Deslactosada",
+  "categoria": "Lácteos",
+  "precio": 4500,
+  "stock": 80,
+  "proveedor": {
+    "nombre": "Lácteos del Campo",
+    "ciudad": "Medellín",
+    "telefono": "3009876543"
+  }
+},
+{
+  "_id": 3,
+  "nombre": "Pan Integral",
+  "categoria": "Panadería",
+  "precio": 3200,
+  "stock": 50,
+  "proveedor": {
+    "nombre": "Panadería Natural",
+    "ciudad": "Bogotá",
+    "telefono": "3005551234"
+  }
+},
+{
+  "_id": 4,
+  "nombre": "Aguacate Hass",
+  "categoria": "Frutas",
+  "precio": 3500,
+  "stock": 100,
+  "proveedor": {
+    "nombre": "Finca Verde",
+    "ciudad": "Bogotá",
+    "telefono": "3001234567"
+  }
+},
+{
+  "_id": 5,
+  "nombre": "Yogurt Natural",
+  "categoria": "Lácteos",
+  "precio": 2800,
+  "stock": 60,
+  "proveedor": {
+    "nombre": "Lácteos del Campo",
+    "ciudad": "Medellín",
+    "telefono": "3009876543"
+  }
+}]
